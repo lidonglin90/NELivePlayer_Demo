@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/demo/build/
+/demo/build/intermediates/classes/debug/
+/playerkit/build/
+/playerkit/build/intermediates/classes/debug/
